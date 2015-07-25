@@ -1,7 +1,7 @@
 {
   "name": "@mogusbi/jquery.share",
   "description": "Share current page on Facebook, Twitter, Google+ and WhatsApp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "dist/jquery.share.js",
   "scripts": {
