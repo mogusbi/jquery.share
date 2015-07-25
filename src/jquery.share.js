@@ -1,5 +1,5 @@
 /*!
- * Share v1.0.0
+ * Share v1.0.1
  * Share current page on Facebook, Twitter, Google+ and WhatsApp
  * http://mogusbi.co.uk
  *
