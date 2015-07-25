@@ -1,5 +1,5 @@
 # jQuery Share plugin
-> Resize a textarea as you type.
+> Share current page on Facebook, Twitter, Google+ and WhatsApp
 
 ## Getting started
 ### NPM
